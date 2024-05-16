@@ -1,0 +1,605 @@
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+E:\ו\.Net\1.1.24\Library-main\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\appsettings.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Library.exe
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Library.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Library\obj\Debug\net6.0\ref\Library.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\refint\Library.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Library.exe
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Library.deps.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Library.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Library.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Library\obj\Debug\net6.0\ref\Library.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\appsettings.json
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.exe
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.deps.json
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.pdb
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Humanizer.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+K:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.sourcelink.json
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.pack.json
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.dll
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\refint\Library.dll
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.pdb
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+K:\.Net\23.1\Library\Library\obj\Debug\net6.0\ref\Library.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\appsettings.json
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.exe
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.deps.json
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.pdb
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Humanizer.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+E:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.sourcelink.json
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.pack.json
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.dll
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\refint\Library.dll
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.pdb
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+E:\.Net\23.1\Library\Library\obj\Debug\net6.0\ref\Library.dll
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.sourcelink.json
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.dll
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\refint\Library.dll
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.pdb
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\appsettings.json
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.exe
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.deps.json
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Library.pdb
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Humanizer.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+F:\.Net\23.1\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\staticwebassets.pack.json
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+F:\.Net\23.1\Library\Library\obj\Debug\net6.0\ref\Library.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\appsettings.json
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.exe
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.deps.json
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.pdb
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Humanizer.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+F:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.sourcelink.json
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets.pack.json
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.dll
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\refint\Library.dll
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.pdb
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+F:\.Net\27.2\Library\Library\obj\Debug\net6.0\ref\Library.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\appsettings.json
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.exe
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.deps.json
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Library.pdb
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Humanizer.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.sourcelink.json
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\staticwebassets.pack.json
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.dll
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\refint\Library.dll
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.pdb
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+K:\.Net\27.2\Library\Library\obj\Debug\net6.0\ref\Library.dll
+K:\.Net\27.2\Library\Library\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\appsettings.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Library.exe
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Library.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.csproj.CopyComplete
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Library\obj\Debug\net6.0\ref\Library.dll

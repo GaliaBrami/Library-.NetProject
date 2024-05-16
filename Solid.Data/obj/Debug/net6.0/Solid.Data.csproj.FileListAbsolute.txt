@@ -1,0 +1,205 @@
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\hitmachut\Desktop\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_1\גולדשטיין  מעיין חן\.net\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+E:\ו\.Net\1.1.24\Library-main\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\Library-main\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\שולחן העבודה\1.1.24\Library-main\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+Y:\Groups\Group_1\ברמי  גליה\דוטנט\1.1.24\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+K:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+K:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+K:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+K:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+K:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+K:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.sourcelink.json
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+K:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+E:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+E:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+E:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+E:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+E:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+E:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.sourcelink.json
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+E:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+F:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+F:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+F:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+F:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+F:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+F:\.Net\23.1\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.sourcelink.json
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+F:\.Net\23.1\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+F:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+F:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+F:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+F:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+F:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+F:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.sourcelink.json
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+F:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+K:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+K:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+K:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+K:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+K:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+K:\.Net\27.2\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.sourcelink.json
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+K:\.Net\27.2\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+C:\Users\יונתן\OneDrive\מסמכים\גליה\יג תכנות\דוטנט\27.2\mapping!\Library\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
