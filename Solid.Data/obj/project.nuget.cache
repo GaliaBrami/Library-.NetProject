@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3frT2i1YidaxHQ39xcX+tUNICrw3SvkPJ/Wi1HY9O8V+cHtzOXImwntAMYwlqF9UNeXfIsOx1X+PGscjE0oX/Q==",
+  "dgSpecHash": "GfwUGu5R/wKg4HQU0HldYaeM8ERG0YGrnkmjnuGmhFqbyPgbO7Kfc3F6k5WtycWKDD1piTBxjIyQTa3zHAi2Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\יונתן\\OneDrive\\מסמכים\\גליה\\יג תכנות\\דוטנט\\.NET\\27.2\\mapping!\\Library\\Solid.Data\\Solid.Data.csproj",
+  "projectFilePath": "C:\\Users\\יונתן\\OneDrive\\מסמכים\\גליה\\יג תכנות\\דוטנט\\.NET\\jwt23.5.24\\Library-.NetProject\\Solid.Data\\Solid.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\יונתן\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\יונתן\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,6 +1,7 @@
 using AutoMapper;
 using Library.Entities;
 using Library.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Solid.Core.DTOs;
 using Solid.Core.Services;
@@ -15,6 +16,7 @@ namespace Library.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BorrowsController : ControllerBase
     {
 

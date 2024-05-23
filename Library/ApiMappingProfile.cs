@@ -10,7 +10,7 @@ namespace Library
         {
             CreateMap<MemberPostModel, Member>().ReverseMap();
             CreateMap<BorrowPostModel,Borrow >().ReverseMap();
-            CreateMap<BorrowPostModel, Book>().ReverseMap();
+            CreateMap<BookPostModel, Book>().ReverseMap();
 
         }
     }

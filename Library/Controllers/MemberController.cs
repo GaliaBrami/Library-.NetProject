@@ -12,6 +12,7 @@ using AutoMapper.Execution;
 using Library.Models;
 using System.Diagnostics.Metrics;
 using Member = Library.Entities.Member;//help
+using Microsoft.AspNetCore.Authorization;
 
 
 //לקוח יכול לשאול ספר כמה פעמים!
@@ -20,6 +21,7 @@ namespace Library.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class MemberController : ControllerBase
     {
         private readonly IMemberService _memberService;

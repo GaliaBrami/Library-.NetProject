@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COMPfd9ZDBlH0sdRj8w2X7XVNKAfCiK2RsejSNgf9STKv0kVsyruW766mv+h+Z7PIb47Q6+80dLjQHmLZ2Y/FQ==",
+  "dgSpecHash": "RfLFgdXLQk9y9UUn4Pl6RS7bYyC2FlCL6FXetDkUrZseV/7ee5nWGg2Huv5WfqaB7gm6xc2Tzq4ILr8g8Rm/MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\יונתן\\OneDrive\\מסמכים\\גליה\\יג תכנות\\דוטנט\\.NET\\27.2\\mapping!\\Library\\Solid.Service\\Solid.Service.csproj",
+  "projectFilePath": "C:\\Users\\יונתן\\OneDrive\\מסמכים\\גליה\\יג תכנות\\דוטנט\\.NET\\jwt23.5.24\\Library-.NetProject\\Solid.Service\\Solid.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\יונתן\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\יונתן\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
